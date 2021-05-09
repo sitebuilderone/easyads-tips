@@ -1,6 +1,8 @@
 # EasyAds Classified Ads Optimization Tips
 Optimization tips, notes and updates for EasyAds Classified Ads script
 
+This
+
 # Force https redirect in .htaccess file
 
 After you have set up the SEO option and generated the .htaccess file from EasyAds, to force a https redirect, use the following code.
